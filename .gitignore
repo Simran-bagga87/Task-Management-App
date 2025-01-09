@@ -1,0 +1,61 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Environment variables
+.env
+
+# Cache files
+*.cache
+.cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional npm cache directory
+.npm/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+coverage/
+
+# Package lock files (optional, if you're not committing them)
+package-lock.json
+yarn.lock
+
+# Generated documentation
+docs/
+
+# Git LFS files
+*.lfs
+
+# Misc
+*.bak
+*.swp
+*.orig
+*.tmp
+*.pid
+*.seed
+*.pid.lock
